@@ -34,6 +34,14 @@ Account Manager Title:
 | [Comp 3] | [DR] | [Traffic] | [Keywords] | $[Value] |
 | **[Client Name]** | **[DR]** | **[Traffic]** | **[Keywords]** | **$[Value]** |
 
+### Relative Site Performance
+| Site | Overall Rank | FCP | LCP | CLS | Speed Index | Total Blocking Time (ms) |
+|:-----------:|:-------------:|:----------------:|:-----------------:|:--------------:|:--------------:|:--------------:|
+| [Site 1] | [Rank] | [FCP] | [LCP] | [CLS] | [Speed Index] | [Total Blocking Time] |
+| [Site 2] | [Rank] | [FCP] | [LCP] | [CLS] | [Speed Index] | [Total Blocking Time] |
+| [Site 3] | [Rank] | [FCP] | [LCP] | [CLS] | [Speed Index] | [Total Blocking Time] |
+| [Site 4] | [Rank] | [FCP] | [LCP] | [CLS] | [Speed Index] | [Total Blocking Time] |
+
 ## Traffic & Conversion Distribution
 | Traffic Source | % of Sessions | % of Conversions |
 |:--------------:|:-------------:|:-----------------:|
