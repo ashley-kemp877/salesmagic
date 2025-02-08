@@ -83,6 +83,21 @@ gantt
 - [Competitive Landscape Key Insight 2]
 - [Competitive Landscape Key Insight 3]
 
+### Relative Site Performance
+| Site | Overall Rank | FCP | LCP | CLS | Speed Index | Total Blocking Time (ms) |
+|:-----------:|:-------------:|:----------------:|:-----------------:|:--------------:|:--------------:|:--------------:|
+| [Site 1] | [Rank] | [FCP] | [LCP] | [CLS] | [Speed Index] | [Total Blocking Time] |
+| [Site 2] | [Rank] | [FCP] | [LCP] | [CLS] | [Speed Index] | [Total Blocking Time] |
+| [Site 3] | [Rank] | [FCP] | [LCP] | [CLS] | [Speed Index] | [Total Blocking Time] |
+| [Site 4] | [Rank] | [FCP] | [LCP] | [CLS] | [Speed Index] | [Total Blocking Time] |
+
+These key performance metrics (FCP, LCP, CLS, Speed Index, and TBT) are vital ranking signals that Google uses to evaluate and rank websites in search results, reflecting their commitment to prioritizing fast, stable, and user-friendly web experiences.
+
+**Key Insights:**
+- [Key Site Performance Insight 1]
+- [Key Site Performance Insight 2]
+- [Key Site Performance Insight 3]
+
 ### Traffic & Conversion Distribution
 
 | Traffic Source | % of Sessions | % of Conversions |
